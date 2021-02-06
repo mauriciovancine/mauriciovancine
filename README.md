@@ -48,25 +48,6 @@
 
 #### We R Live
 - [We R Live 01 - Por onde começaR?](https://youtu.be/ZORFVdwtJ1U)
-- [We R Live 02 - Elaborando mapas no R](https://youtu.be/eHht0n3Ppcg)
-- [We R Live 03 - Elaborando mapa no R com tmap](https://youtu.be/BmlM25XQ3QA)
-- [We R Live 04 - Manipulando dados raster no R](https://youtu.be/dFC9SuGLuX8)
-- [We R Live 05 - Manipulando dados raster no R II](https://youtu.be/AKJo_Q0dsMI)
-- [We R Live 06 - Extraindo dados climáticos para pontos](https://youtu.be/-_ODMFDU6ck)
-- [We R Live 07 - Introdução à Estatística Espacial I](https://youtu.be/fHWD4qyKj84)
-- [We R Live 08 - Introdução à Estatística Espacial II](https://youtu.be/BCl_V-SpQec)
-- [We R Live 09 - Introdução à Estatística Espacial III](https://youtu.be/eaR7pTsQFDQ)
-- [We R Live 10 - Join como associar dados à vetores](https://youtu.be/BvURukaIDM0)
-- [We R Live 11 - florestal - Pacote para inventário florestal no R](https://youtu.be/xOgsVywKADI)
-- [We R Live 12 - Geografia das Eleições](https://youtu.be/KN4kkvKkb_w)
-- [We R Live 13 - Introdução à estatística Espacial IV](https://youtu.be/IsOJvaWdyXE)
-- [We R Live 14 - ESPECIAL - Geoestatística com Jorge Kazuo Yamamoto](https://youtu.be/aIdntosdKIo)
-- [We R Live 15 - Introdução à estatística Espacial V](https://youtu.be/IeGTr7mjZIc)
-- [We R Live 16: R Markdown: usando o R para comunicar seus resultados](https://youtu.be/6oPZ5sGt6LA)
-
-#### We R Live Conding
-- [We R Live Coding 01 - Insomnia](https://youtu.be/I4ErDOwdXrk)
-- [We R Live Coding 02 - On fire!](https://youtu.be/5BipR4L-n1Q)
 
 #### O Fascinante Mundo do Sensoriamento Remoto
 - [Podcast #48 O Fascinante Mundo do Sensoriamento Remoto ao vivo no YouTube!](https://youtu.be/LNeVLnhKjq0)
