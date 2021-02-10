@@ -1,6 +1,7 @@
 ### Hi there, I'm Maurício Vancine
+I'm a ecologist and doctoral student at UNESP - Rio Claro, SP, Brazil. I have interesting in Spatial Ecology, with focus on Landscape Ecology, Species Distribution Modeling and amphibians.
 
-### Connect with me:
+### About me:
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://mauriciovancine.netlify.app/)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/mauriciovancine)
@@ -10,6 +11,8 @@
 [<img align="left" width="22px" src="https://i.imgur.com/2iVxee6.png"/>](http://lattes.cnpq.br/9761288418931193)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/mauricio-vancine/)
 
+<br>
+<br>
 <br>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mauriciovancine&show_icons=true)
