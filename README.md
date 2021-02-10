@@ -10,6 +10,6 @@
 [<img align="left" width="22px" src="https://i.imgur.com/2iVxee6.png"/>](http://lattes.cnpq.br/9761288418931193)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/mauricio-vancine/)
 
-
+<br>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mauriciovancine&show_icons=true)
