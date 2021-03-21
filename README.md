@@ -1,5 +1,7 @@
-### Hi there, I'm Maurício Vancine
-I am an ecologist and PhD student at UNESP - Rio Claro, SP, Brazil. I am interested in Spatial Ecology, with a focus on Landscape Ecology, Species Distribution Modeling and amphibians.
+### Hi, I'm Maurício Vancine
+I am an ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/). 
+
+I am interested in Spatial Ecology, with a focus on Landscape Ecology, Species Distribution Modeling and Amphibians.
 
 ### About me:
 
