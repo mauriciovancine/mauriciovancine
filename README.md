@@ -4,7 +4,8 @@ I am an ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil](https:
 I am interested in Spatial Ecology, with a focus on Landscape Ecology, Species Distribution Modeling and Amphibians.
 
 ### About me:
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://mauriciovancine.github.io/)
+
+[<img align="left" width="22px" src="ttps://image.flaticon.com/icons/svg/1011/1011407.svg"/>](https://mauriciovancine.github.io/)
 [<img align="left" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg"/>](https://twitter.com/mauriciovancine)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/orcid.svg"/>](https://orcid.org/0000-0001-9650-7575)
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/publons.svg"/>](https://publons.com/researcher/1391845/mauricio-vancine/)
