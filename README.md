@@ -10,6 +10,8 @@ I am an spatial ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil
 <div style="display: inline_block"><br>
   <img align="center" alt="Mau-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Mau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Mau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 ### About me:
