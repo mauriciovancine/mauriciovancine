@@ -3,8 +3,8 @@ I am an spatial ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil
 
 <div>
   <a href="https://github.com/mauriciovancine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciovancine&show_icons=true&theme=rainbow&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciovancine&layout=compact&langs_count=16&theme=rainbow"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciovancine&show_icons=true&theme=github&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciovancine&layout=compact&langs_count=16&theme=github"/>
 <div>
 
 ### About me:
