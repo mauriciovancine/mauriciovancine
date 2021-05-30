@@ -15,8 +15,7 @@ I am an spatial ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil
   <img align="center" alt="Mau-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Mau-GNU/Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Mau-QIG" height="30" width="40" src="https://qgis.org/en/_downloads/19636e41148dfd0157ff0db3f7297069/qgis-icon64.svg">
-  <img align="center" alt="Mau-GRASS-GIS" height="30" width="40" src="https://grass.osgeo.org/images/logos/grasslogo.svg">
-  <i class="ms ms-grass-gis ms-7x grass-green"></i>
+  <img align="center" alt="Mau-GRASS-GIS" height="30" width="40" src="https://raw.githubusercontent.com/OSGeo/grass-website/master/static/images/favicon/android-chrome-192x192.png">
 </div>
 
 ### About me:
