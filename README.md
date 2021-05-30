@@ -1,7 +1,11 @@
 ### Hi, I'm Maurício Vancine!
-I am an ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/). 
+I am an spatial ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/). 
 
-I am interested in Spatial Ecology, with a focus on Landscape Ecology, Species Distribution Modeling and Amphibians.
+<div>
+  <a href="https://github.com/mauriciovancine">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciovancine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciovancine&layout=compact&langs_count=16&theme=dracula"/>
+<div>
 
 ### About me:
 
@@ -12,9 +16,3 @@ I am interested in Spatial Ecology, with a focus on Landscape Ecology, Species D
 [<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)
 [<img align="left" width="22px" src="https://arquivo.unifesp.br/images/icon/icon_lattes.svg"/>](http://lattes.cnpq.br/9761288418931193)
 [<img align="left" width="22px" src="https://image.flaticon.com/icons/svg/733/733561.svg"/>](https://www.linkedin.com/in/mauricio-vancine/)
-
-<br>
-<br>
-<br>
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=mauriciovancine&show_icons=true)
