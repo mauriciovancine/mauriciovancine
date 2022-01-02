@@ -26,5 +26,4 @@ I am an spatial ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil
 [<img align="left" width="22px" src="https://publons.com/static/images/logos/square/blue_white_shadow.png"/>](https://publons.com/researcher/1391845/mauricio-vancine/)
 [<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)
 [<img align="left" width="22px" src="https://arquivo.unifesp.br/images/icon/icon_lattes.svg"/>](http://lattes.cnpq.br/9761288418931193)
-[<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png"/>](https://www.linkedin.com/in/mauricio-vancine/)
