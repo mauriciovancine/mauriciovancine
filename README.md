@@ -12,6 +12,7 @@ I am an spatial ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil
   <img align="center" alt="Mau-tidyverse" height="30" width="40" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg">
   <img align="center" alt="Mau-Markdown" height="30" width="40" src="https://raw.githubusercontent.com/dcurtis/markdown-mark/master/svg/markdown-mark.svg">
   <img align="center" alt="Mau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mau-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Mau-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Mau-GNU/Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Mau-QIG" height="30" width="40" src="https://qgis.org/en/_downloads/19636e41148dfd0157ff0db3f7297069/qgis-icon64.svg">
