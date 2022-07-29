@@ -21,7 +21,7 @@ I am an spatial ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil
 
 ### About me:
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/mauriciovancine/mauriciovancine.github.io.blogdown/master/assets/images/icon.png"/>](https://mauriciovancine.github.io/)
+[<img align="left" width="22px" src="https://mauriciovancine.github.io/img/favicon.png"/>](https://mauriciovancine.github.io/)
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>](https://twitter.com/mauriciovancine)
 [<img align="left" width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0000-0001-9650-7575)
 [<img align="left" width="22px" src="https://publons.com/static/images/logos/square/blue_white_shadow.png"/>](https://publons.com/researcher/1391845/mauricio-vancine/)
