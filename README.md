@@ -1,5 +1,5 @@
 ### Hi, I'm Maurício Vancine!
-I am an spatial ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/). 
+I am an ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/). 
 
 <div>
   <a href="https://github.com/mauriciovancine">
