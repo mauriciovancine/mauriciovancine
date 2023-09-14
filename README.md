@@ -24,7 +24,7 @@ I am an ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil](https:
 [<img align="left" width="22px" src="https://mauriciovancine.github.io/img/favicon.png"/>](https://mauriciovancine.github.io/)
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>](https://twitter.com/mauriciovancine)
 [<img align="left" width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0000-0001-9650-7575)
-[<img align="left" width="22px" src="https://icons.iconarchive.com/icons/academicons-team/academicons/256/clarivate-icon.png"/>](https://www.webofscience.com/wos/author/record/837504)
+[<img align="left" width="22px" src="https://companieslogo.com/img/orig/CLVT-be02c47f.png?t=1670396639"/>](https://www.webofscience.com/wos/author/record/837504)
 [<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)
 [<img align="left" width="22px" src="https://arquivo.unifesp.br/images/icon/icon_lattes.svg"/>](http://lattes.cnpq.br/9761288418931193)
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124011.png"/>](https://www.linkedin.com/in/mauricio-vancine/)
