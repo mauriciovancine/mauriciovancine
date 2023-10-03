@@ -22,7 +22,8 @@ I am an ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil](https:
 ### About me:
 
 [<img align="left" width="22px" src="https://mauriciovancine.github.io/img/favicon.png"/>](https://mauriciovancine.github.io/)
-[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>](https://twitter.com/mauriciovancine)
+[<img align="left" width="22px" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/rdftmsdr3rynvtdxgmrj"/>](https://bsky.app/profile/mauriciovancine.bsky.social)
+[<img align="left" width="22px" src="https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg"/>](https://twitter.com/mauriciovancine)
 [<img align="left" width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0000-0001-9650-7575)
 [<img align="left" width="22px" src="https://companieslogo.com/img/orig/CLVT-be02c47f.png?t=1670396639"/>](https://www.webofscience.com/wos/author/record/837504)
 [<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)
