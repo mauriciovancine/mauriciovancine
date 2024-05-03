@@ -1,13 +1,9 @@
-### Hi, I'm Maurício Vancine!
+### Hi, I'm Maurício!
 I am an ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/). 
 
-<div>
-  <a href="https://github.com/mauriciovancine">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mauriciovancine&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciovancine&layout=compact&langs_count=16&theme=dark"/>
-<div>
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mauriciovancine&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mauriciovancine&show_icons=true&theme=onedark" width="400">
+</p>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mau-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
