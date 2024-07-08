@@ -1,5 +1,5 @@
 ### Hi, I'm Maurício!
-I am an ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/). 
+I am an ecologist. 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mauriciovancine&show_icons=true&theme=onedark" width="400">
