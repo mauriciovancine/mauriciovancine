@@ -1,5 +1,5 @@
 ### Hi, I'm Maurício!
-I am an ecologist interested in understanding how spatial patterns affect biodiversity. I am currently a PostDoc Researcher at lab.exe and my research involves integrating landscape metrics and species distribution modeling (SDM) to assess the impacts of edge effects, fires, and climate change on the distribution and interactions of animals and plants across multiple spatial scales in the Amazon.
+I am an ecologist interested in understanding how spatial patterns affect biodiversity. I am currently a PostDoc Researcher at lab.exe (Unicamp) and my research involves integrating landscape metrics and species distribution modeling (SDM) to assess the impacts of edge effects, fires, and climate change on the distribution and interactions of animals and plants across multiple spatial scales in the Amazon.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mauriciovancine&show_icons=true&theme=onedark" width="400">
