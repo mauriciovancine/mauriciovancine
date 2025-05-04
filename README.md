@@ -13,15 +13,13 @@ I am an ecologist interested in understanding how spatial patterns affect biodiv
   <img align="center" alt="Mau-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Mau-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Mau-GNU/Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Mau-QIG" height="30" width="40" src="https://qgis.org/en/_downloads/19636e41148dfd0157ff0db3f7297069/qgis-icon64.svg">
+  <img align="center" alt="Mau-QIG" height="30" width="40" src="https://qgis.org/styleguide/visual/qgis-icon64.png">
   <img align="center" alt="Mau-GRASS-GIS" height="30" width="30" src="https://raw.githubusercontent.com/OSGeo/grass-website/master/static/images/favicon/android-chrome-192x192.png">
 </div>
 
 ### About me:
 
 [<img align="left" width="22px" src="https://mauriciovancine.github.io/img/favicon.png"/>](https://mauriciovancine.github.io/)
-[<img align="left" width="22px" src="https://seeklogo.com/images/B/bluesky-social-logo-75CF77F3F7-seeklogo.com.png"/>](https://bsky.app/profile/mauriciovancine.bsky.social)
-[<img align="left" width="22px" src="https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg"/>](https://twitter.com/mauriciovancine)
 [<img align="left" width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0000-0001-9650-7575)
 [<img align="left" width="22px" src="https://companieslogo.com/img/orig/CLVT-be02c47f.png?t=1670396639"/>](https://www.webofscience.com/wos/author/record/837504)
 [<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)
