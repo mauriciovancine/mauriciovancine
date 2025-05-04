@@ -13,7 +13,7 @@ I am an ecologist interested in understanding how spatial patterns affect biodiv
   <img align="center" alt="Mau-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Mau-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Mau-GNU/Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Mau-QIG" height="30" width="40" src="https://qgis.org/styleguide/visual/qgis-icon64.png">
+  <img align="center" alt="Mau-QIG" height="30" width="40" src="https://qgis.org/styleguide/visual/qgis-icon32.svg">
   <img align="center" alt="Mau-GRASS-GIS" height="30" width="30" src="https://raw.githubusercontent.com/OSGeo/grass-website/master/static/images/favicon/android-chrome-192x192.png">
 </div>
 
