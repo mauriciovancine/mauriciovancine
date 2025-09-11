@@ -20,7 +20,7 @@ I am an ecologist interested in understanding how spatial patterns affect biodiv
 
 ### About me:
 
-[<img align="left" width="22px" src="https://mauriciovancine.github.io/img/favicon.png"/>](https://mauriciovancine.github.io/)
+[<img align="left" width="22px" src="https://github.com/mauriciovancine/mauriciovancine.github.io/blob/main/img/favicon.ico"/>](https://mauriciovancine.github.io/)
 [<img align="left" width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0000-0001-9650-7575)
 [<img align="left" width="22px" src="https://companieslogo.com/img/orig/CLVT-be02c47f.png?t=1670396639"/>](https://www.webofscience.com/wos/author/record/837504)
 [<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)
